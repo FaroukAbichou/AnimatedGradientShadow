@@ -3,5 +3,6 @@ This little Modifier extension gives u the ability to give your composable an an
 
 
 
-https://github.com/Farouk-abichou/AnimatedGradientShadow/assets/117727520/5757b9f6-053a-4e5f-80b1-41a75a21f96e
+
+https://github.com/Farouk-abichou/AnimatedGradientShadow/assets/117727520/f2c8eb25-2a68-4f3d-bb51-015b3e87c328
 
